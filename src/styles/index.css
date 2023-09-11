@@ -10,3 +10,56 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.redLightCircle{
+    width: 60px;
+    height: 60px;
+    background: red;
+    margin-top: 10px;
+    /* box-shadow: 0px 20px 40px rgb(221 255 0); */
+    border-radius: 150px;
+
+}
+
+.yellowLightCircle{
+    width: 60px;
+    height: 60px;
+    background: rgb(251, 255, 0);
+    margin: auto 0;
+    /* box-shadow: 0px 20px 40px rgb(221 255 0); */
+    border-radius: 150px;
+}
+
+.greenLightCircle{
+    width: 60px;
+    height: 60px;
+    background: rgb(37, 244, 0);
+    margin: auto 0;
+    /* box-shadow: 0px 20px 40px rgb(221 255 0); */
+    border-radius: 150px;
+    margin-bottom: 10px;
+}
+.justShadow{
+    box-shadow: 0px 20px 40px rgb(221 255 0);
+  
+}
+
+.box {
+
+    background: black;
+    inline-size: min-content;
+    border-radius: 10px
+    
+}
+
+.icon{
+    background: black;
+}
+
+.square{
+    
+    width: 10px;          
+    height: 107px;         
+    background: black;       
+    border: 1px;
+    margin-left: 25px
+}
